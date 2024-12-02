@@ -1,0 +1,14 @@
+C:\Users\elanp\ParkingSystem\bin\Debug\net9.0\ParkingSystem.exe
+C:\Users\elanp\ParkingSystem\bin\Debug\net9.0\ParkingSystem.deps.json
+C:\Users\elanp\ParkingSystem\bin\Debug\net9.0\ParkingSystem.runtimeconfig.json
+C:\Users\elanp\ParkingSystem\bin\Debug\net9.0\ParkingSystem.dll
+C:\Users\elanp\ParkingSystem\bin\Debug\net9.0\ParkingSystem.pdb
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ParkingSystem.AssemblyInfo.cs
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ParkingSystem.dll
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\refint\ParkingSystem.dll
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ParkingSystem.pdb
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ParkingSystem.genruntimeconfig.cache
+C:\Users\elanp\ParkingSystem\obj\Debug\net9.0\ref\ParkingSystem.dll
